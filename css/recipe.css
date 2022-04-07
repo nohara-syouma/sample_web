@@ -1,0 +1,30 @@
+.center {
+    text-align:center;
+  }
+
+body{
+    background:url(../web_html_attr/bg_Argyle.jpg);
+  }
+
+
+u{
+    font-weight:bold;
+}
+
+.centercurry{
+    text-align:center;
+    padding: 9px;
+    
+}
+
+.centercurry img{
+
+    border:double 10px tomato;
+
+}
+
+
+
+caption{
+    color: red;
+}
